@@ -1,8 +1,8 @@
 {
-  "name": "@adiwajshing/baileys",
-  "version": "3.5.3",
+  "name": "@ZIYAN-SER/WhatsBixby-Web-Api",
+  "version": "7.4.3",
   "description": "WhatsApp Web API",
-  "homepage": "https://github.com/adiwajshing/Baileys",
+  "homepage": "https://github.com/ZIYAN-SER/WhatsBixby-Web-Api",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
@@ -26,10 +26,10 @@
     "gen-protobuf": "bash src/Binary/GenerateStatics.sh",
     "browser-decode": "yarn ts-node src/BrowserMessageDecoding.ts"
   },
-  "author": "Adhiraj Singh",
+  "author": "Ziyan kp",
   "license": "MIT",
   "repository": {
-    "url": "git@github.com:adiwajshing/baileys.git"
+    "url": "git@github.com:ZIYAN-SER/WhatsBixby-Web-Api.git"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.2",
